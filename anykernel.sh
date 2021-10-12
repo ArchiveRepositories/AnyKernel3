@@ -15,7 +15,7 @@ device.name2=onclite
 device.name3=
 device.name4=
 device.name5=
-supported.versions=9.0-11.0
+supported.versions=9.0-12.0
 supported.patchlevels=
 '; } # end properties
 
